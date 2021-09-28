@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @AdamPach
-- 👀 I’m interested in dotnet
-- 🌱 I’m currently learning c#
+👋 Hello there my friends
 
 <!---
 AdamPach/AdamPach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
